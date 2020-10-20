@@ -3,4 +3,4 @@ Predicting Correct Stock Price is very difficult and ambiguous task. Many Factor
 
 Price prediction is a regression problem where data is continous and multiple Regression Algorithms like Linear Regression, KNN can be tried. But, as it is a Comtinous Time Series (next output depends on the previous output) we are using LSTM to implement Regression. LSTM has been found to outperform the traditional Machine Learning Algorithms. 
 
-For furthur info about different techniques of <a href = "https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/">stock price prediction: 
+For furthur info about different techniques of <a href="https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python" target="_blank">stock price prediction</a>
